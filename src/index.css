@@ -1,0 +1,118 @@
+.bg-body-tertiary{
+  background-color: rgb(228, 220, 220);
+}
+.ban{
+  padding-left: 100px;
+}
+
+.main{
+  background-image: url("bg-masthead.jpg");
+  background-attachment: scroll;
+  background-size: 100% 100%;
+  height: 580px;
+  padding:150px;
+  color:white;
+}
+#main{
+  background-image: url("bg-masthead.jpg");
+  background-attachment: scroll;
+  background-size: 100% 100%;
+  height: 350px;
+  padding:50px;
+  color:white;
+}
+
+ul>li{
+  list-style: none;
+  display: inline-block;
+}
+.cols-head{
+  padding: 30px 0 0 225px;
+  
+}
+.cols-text{
+  padding: 0 0 10px 200px;
+}
+.img1{
+  background-image: url("./image/bg-showcase-1.jpg");
+  width:770px;
+  height:500px;
+  background-attachment: scroll;
+  background-size: cover;
+}
+.img2{
+  background-image: url("./image/bg-showcase-2.jpg");
+  width:770px;
+  height:500px;
+  background-attachment: scroll;
+  background-size: cover;
+}
+.img3{
+  background-image: url("./image/bg-showcase-3.jpg");
+  width:770px;
+  height:500px;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+.ln{
+  padding: 20px;
+}
+.boot-head{
+  padding: 100px 0 0 350px;
+}
+#button{
+  margin-left:10px;
+  color:white;
+}
+
+/*footban css*/
+.image-4{
+  background-image: url("./image/testimonials-1.jpg");
+  width:150px;
+  height:150px;
+  background-attachment: scroll;
+  background-size: cover;
+  border-radius: 50%;
+  box-shadow: 0 3px 3px 0 grey;
+}
+.image-5{
+  background-image: url("./image/testimonials-2.jpg");
+  width:150px;
+  height:150px;  background-attachment: scroll;
+  background-size: cover;
+  border-radius: 50%;
+  box-shadow: 0 3px 3px 0 grey;
+}
+.image-6{
+  background-image: url("./image/testimonials-3.jpg");
+  width:150px;
+  height:150px;  background-attachment: scroll;
+  background-size: cover;
+  border-radius: 50%;
+  box-shadow: 0 3px 3px 0 grey;
+}
+.foo-text{
+  padding-right: 20px;
+}
+.foo{
+  background-color: rgb(240, 237, 237);
+}
+#row{
+  display: flex;
+  align-items: center;
+  padding: 50px 0 0 70px;
+}
+/*banner css*/
+#ban-1,#ban-2,#ban-3{
+  padding: 150px 150px;
+}
+/*@media (min-width: 992px){
+.order-lg-2 {
+    order: 2 !important;
+}}
+@media (min-width: 992px){
+.col-lg-6 {
+    flex: 0 0 auto;
+    width: 50%;
+}}*/
