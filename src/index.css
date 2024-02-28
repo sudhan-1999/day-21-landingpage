@@ -54,10 +54,39 @@ ul>li{
   background-attachment: scroll;
   background-size: cover;
 }
-
-.ln{
-  padding: 20px;
+ul>li{
+ 
+ list-style-type: none;
+ display: inline;
 }
+.ln{
+  padding-left: 20px;
+}
+.ll{
+  display: inline;
+  font-size: 30px;
+  padding-left: 900px;
+}
+.ls{
+  display: inline;
+  font-size: 30px;
+  padding-left: 20px;
+}
+.icon{
+  color: skyblue;
+  font-size: 50px;
+  padding-left: 70px;
+}
+#row{
+  padding: 150px;
+  
+}
+.para{
+  word-wrap: break-word;
+}
+
+
+
 .boot-head{
   padding: 100px 0 0 350px;
 }
